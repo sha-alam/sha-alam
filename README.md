@@ -35,16 +35,16 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Additional Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🏆 Featured Projects
 
-### 🎯 [SHAALAM ASP.NET B11](https://github.com/sha-alam/SHAALAM-ASP.NET-B11)
+### 🎯 [Inventory Management](https://github.com/sha-alam/SHAALAM-ASP.NET-B11)
 **Enterprise-level ASP.NET Core application showcasing modern web development practices**
 - **Key Features:**
   - 🔐 User Authentication & Authorization
@@ -54,44 +54,14 @@
   - 📱 Responsive design with Bootstrap
   - 🧪 Unit testing implementation
 - **Tech Stack:** ASP.NET Core, C#, Entity Framework, SQL Server, Bootstrap
-- **Architecture:** MVC Pattern, Repository Pattern, Dependency Injection
+- **Architecture:** MVC Pattern, Repository Pattern, Clean Architecture, Dependency Injection
 
-### ⚡ [Nion Project](https://github.com/sha-alam/nion)
-**Advanced .NET application focusing on [Brief description of Nion project purpose]**
-- **My Contributions:**
-  - 🚀 Core architecture development and implementation
-  - 🔧 Performance optimization and code refactoring
-  - 📝 Technical documentation and code reviews
-  - 🐛 Bug fixes and feature enhancements
-  - ✅ Unit testing and quality assurance
-- **Tech Stack:** [Add specific technologies used in Nion]
-- **Live Demo:** [Add demo link if available]
-
-### 🚀 [Other .NET Projects](https://github.com/sha-alam)
-**Collection of various C# and .NET applications demonstrating different concepts**
-- **Web APIs:** RESTful services with JWT authentication
-- **Blazor Apps:** Interactive web applications using Blazor Server/WASM
-- **Console Applications:** Utility tools and algorithm implementations
-- **Windows Forms/WPF:** Desktop applications for various use cases
-
-## 📈 Contribution Highlights
-
-<div align="center">
-  
-### 🔥 Recent Activity
-- **Active Contributor** to Nion project with ongoing development
-- **Code Reviews** and technical mentoring for team members
-- **Open Source Enthusiast** contributing to .NET community projects
-- **Problem Solver** focusing on performance optimization and clean architecture
-
-</div>
 
 ## 🎖️ .NET Journey & Achievements
 
 - 🏅 **ASP.NET Core Specialist** - Building scalable web applications
 - 🎯 **Entity Framework Expert** - Database-first and Code-first approaches
 - 📚 **Continuous Learner** - Staying updated with latest .NET features
-- 🔧 **Problem Solver** - Optimizing performance and solving complex business logic
 - 🤝 **Team Collaborator** - Active contributor to team projects like Nion
 
 ## 📝 .NET Development Philosophy
@@ -100,7 +70,6 @@
 
 ### My Development Approach:
 - ✅ **SOLID Principles** - Writing maintainable and extensible code
-- ✅ **Test-Driven Development** - Ensuring code quality through comprehensive testing
 - ✅ **Performance Optimization** - Building efficient and scalable applications
 - ✅ **Security First** - Implementing secure coding practices
 - ✅ **Collaborative Development** - Code reviews and knowledge sharing
